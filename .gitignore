@@ -1,5 +1,4 @@
 titles/
 cars/
-inventary/__pycache__/
-inventary/migrations/__pycache__/
+__pycache__/
 venv/
